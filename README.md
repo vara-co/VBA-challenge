@@ -1,8 +1,12 @@
 --------------------------------------------------------------
 -----------      MULTIPLE YEAR STOCK VBA CODE       ----------
+
 -----------             READ ME FILE                ----------
+
 --------------------------------------------------------------
+
 --                    by LAURA VARA                         --
+
 --------------------------------------------------------------
 Note to the grading department:
 This readme file has been created to guide the grading team, 
