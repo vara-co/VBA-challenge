@@ -107,9 +107,9 @@ of the Summary Table Row. ws.Range("I" & Summary_Table_Row).Value = Ticker
 Color formatting was seen in several exercises in class.
 
 **Note that in the loop, you'll find a comment with an additional code
-if I were to follow the grading segment  to add ($) to the Yearly Column.
+if I were to follow the grading segment  to add ($Currency ) to the Yearly Column.
 Note that your initial instructions to follow and match the images, do 
-not include a ($) symbol. So it was done in the comments.
+not include a ($ Currency) symbol. So it was done in the comments.
 That code was seen in class. It's in the Census code for correcting the
 currency format.
 
