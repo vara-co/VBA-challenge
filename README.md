@@ -13,9 +13,9 @@ This readme file has been created to guide the grading team,
 during my DU University of Denver Data Analysis BootCamp, to
 understand where my code came from if it didn't come from class.
 Note that while your instructions do not mention to change the 
-format to ($) in the yearly change column, and that makes sense
+format to $ in the yearly change column, and that makes sense
 because your images do not have a $ sign. Your grading segments
-in column creation do mention ($), 
+in column creation do mention $, 
 Thus, I will be following the main instructions, 
 but just so you know, if I wanted to add the
 $ simbol to that column, I would just format it like this: 
