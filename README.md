@@ -8,28 +8,6 @@
 --                    by LAURA VARA                         --
 
 --------------------------------------------------------------
-Note to the grading department:
-This readme file has been created to guide the grading team, 
-during my DU University of Denver Data Analysis BootCamp, to
-understand where my code came from if it didn't come from class.
-Note that while your instructions do not mention to change the 
-format to ($ currency) in the yearly change column, and that makes sense
-because your images do not have a (Dollar symbol / Currency Symbol) sign. 
-Your grading segments in column creation do mention the said symbol, 
-Thus, I will be following the main instructions, 
-but just so you know, if I wanted to add the
-currency symbol to that column, I would just format it like this: 
-
-In the first loop, after the yearly calculation I would add this code:
-	ws.Cells(Summary_Table_Row, 10).Style = "Currency"
-
-However, all negative numbers end up enclosed in a parenthesis and now
-it wouldn't match the images provided, thus I don't know if we will get
-less points for that. The instructions are not clear.
-
-If any questions, please reach out to: lauravara.co@gmail.com
-	
----------------------------------------------------------------
                 SECTIONS IN THIS READ ME FILE
 ---------------------------------------------------------------
 I.  - Documents in this repository
